@@ -43,7 +43,7 @@
 
                             <tr>
                                 <th style="width: 50px">001</th>
-                                <th style="width: 50px">Toyota Camry</th>
+                                <th style="width: 50px">Toyota hehehe</th>
                                 <th style="width: 50px">$25,000</th>
                             </tr>
                     </table>
